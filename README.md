@@ -4,5 +4,6 @@ Design of microprocessor-based lab
 
 Developed by:
 
-Javier Plata Calzado
-Pablo Tomás Toledano González
+    Javier Plata Calzado
+
+    Pablo Tomás Toledano González
